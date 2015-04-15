@@ -291,7 +291,7 @@ La batterie de traction du Twizy se compose de 42 cellules organisées en 14S3P,
 Le système ne supporte les mesures indépendantes que des tensions des 42 ensembles et des températures des 7 modules</p>
 
 <h2>Historique des données</h2>
-<p>L\'historique des données n\'inclus que les périodes pendant lesquelles des données ont été reçues, ce qui exclu les périodes de stationnement</p>
+<p>Lhistorique des données n\'inclus que les périodes pendant lesquelles des données ont été reçues, ce qui exclu les périodes de stationnement</p>
 <p>Le module envoie des mises à jour au serveur toutes les <b>60 secondes</b> environ durant les périodes de charge ou de conduite (tant qu\'une connexion au réseau est disponible). Les valeurs extrêmes et déviations sont collectées en continu, les valeurs de courant sont celles au moment de l\'envoi de la mise à jour.</p>
 <p>À <b>l\'allumage</b> du Twizy et au <b>début de charge</b>, les valeurs collectées sont réinitialisées de façon à ce que les valeurs extrêmes soient celle de la période d\'utilisation concernée.</p>
 <p><u><b>Astuce</b></u>: pour suivre la courbe de tension minimale, cliquez dessus pour afficher une donnée, puis utilisez la barre de recherche pour déplacer le pointeur.</p>
@@ -339,7 +339,7 @@ Une chandelle pleine représente une "mauvaise" déviation, i.e. plus forte
 <p>Le journal des positions GPS est mis à jour <b>une fois par minute</b> par défaut. Ce réglage peut être modifié à <b>une fois toutes les 5 secondes</b>
 en activant le mode streaming (régler le marqueur de fonctionnalité #8 à 2).</p>
 <p>Les mesures d\'<b>altitude</b> dépendent du <b>signal GPS</b>. Les autres mesures ne dépendent pas du GPS.</p>
-<p><u>Note</u>: les mesures de puissance et d\'énergie sont une extrapolation
+<p><u>Note</u>: les mesures de puissance et d\'énergie sont une extrapolation 
 de données non documentées circulant sur le bus CAN, qui peuvent être incomplètes et/ou incorrectes (voir documentation).</p>
 
 <h2>Trajet</h2>
